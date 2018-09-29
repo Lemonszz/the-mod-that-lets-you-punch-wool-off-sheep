@@ -1,0 +1,16 @@
+[
+{
+  "modid": "themodthatletsyoupunchwooloffsheep",
+  "name": "The Mod That Let's You Punch Wool Off Sheep",
+  "description": "The Mod That Let's You Punch Wool Off Sheep",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lemons"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
